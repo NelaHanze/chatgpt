@@ -1,1 +1,1 @@
-APIKEY = "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"
+OPENAI_API_KEY = "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"
